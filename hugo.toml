@@ -1,0 +1,7 @@
+baseURL = 'https://platypleura.github.io/my-blog/'
+languageCode = 'zh-tw'
+title = '惠姑个厝'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = 'auto' # 自動切換深色/淺色模式

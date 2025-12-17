@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>惠姑个厝</title>
+    <link>http://localhost:1313/my-blog/</link>
+    <description>Recent content on 惠姑个厝</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 17 Dec 2025 17:16:22 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇貼文 251217</title>
+      <link>http://localhost:1313/my-blog/posts/my-first-post/</link>
+      <pubDate>Wed, 17 Dec 2025 17:16:22 +0800</pubDate>
+      <guid>http://localhost:1313/my-blog/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;簡介&#34;&gt;簡介&lt;/h2&gt;
+&lt;p&gt;這是 &lt;strong&gt;粗體&lt;/strong&gt;，這是 &lt;em&gt;強調字體&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
