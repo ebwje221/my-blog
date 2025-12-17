@@ -6,16 +6,36 @@
     <description>Recent content on 惠姑个厝</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 17 Dec 2025 17:16:22 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 22:46:58 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/my-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BlogBlog 同樂會撰文靈感</title>
+      <link>http://localhost:1313/my-blog/posts/post251217-blogblogclub/</link>
+      <pubDate>Wed, 17 Dec 2025 22:17:52 +0800</pubDate>
+      <guid>http://localhost:1313/my-blog/posts/post251217-blogblogclub/</guid>
+      <description>&lt;p&gt;創作動機來自 wiwi 官大為發起的 &lt;a href=&#34;https://blogblog.club/party&#34;&gt;BlogBlog 同樂會&lt;/a&gt;，可以想成是「個人頁版的作品展」，不收門票、自由參觀。&lt;/p&gt;
+&lt;p&gt;本屆是第一屆，主題「推坑」，2026 年 1 月 31 日截止投稿。&lt;/p&gt;
+&lt;p&gt;下面記錄想推坑的內容：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;喜劇類：喜劇之王單口季、脫口秀大會、相聲瓦舍&lt;/li&gt;
+&lt;li&gt;音樂類：KPOP - SEVENTEEN&lt;/li&gt;
+&lt;li&gt;應用類：倉頡輸入法&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>第一篇貼文 251217</title>
       <link>http://localhost:1313/my-blog/posts/my-first-post/</link>
       <pubDate>Wed, 17 Dec 2025 17:16:22 +0800</pubDate>
       <guid>http://localhost:1313/my-blog/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;簡介&#34;&gt;簡介&lt;/h2&gt;
-&lt;p&gt;這是 &lt;strong&gt;粗體&lt;/strong&gt;，這是 &lt;em&gt;強調字體&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;blogblog-同樂會&#34;&gt;BlogBlog 同樂會&lt;/h2&gt;
+&lt;p&gt;創作動機來自 wiwi 官大為發起的 &lt;a href=&#34;https://blogblog.club/party&#34;&gt;BlogBlog 同樂會&lt;/a&gt;，可以想成是「個人頁版的作品展」，不收門票、自由參觀。&lt;/p&gt;
+&lt;p&gt;本屆是第一屆，主題「推坑」，2026 年 1 月 31 日截止投稿。&lt;/p&gt;
+&lt;p&gt;下面記錄想推坑的內容：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;喜劇類：喜劇之王單口季、脫口秀大會、相聲瓦舍&lt;/li&gt;
+&lt;li&gt;音樂類：KPOP - SEVENTEEN&lt;/li&gt;
+&lt;li&gt;應用類：倉頡輸入法&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

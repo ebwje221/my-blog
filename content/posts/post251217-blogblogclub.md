@@ -1,10 +1,8 @@
 +++
-date = '2025-12-17T17:16:22+08:00'
-lastmod = '2025-12-17T22:46:58+08:00'
-draft = false
-title = '第一篇貼文 251217'
+date = '2025-12-17T22:17:52+08:00'
+draft = true
+title = 'BlogBlog 同樂會撰文靈感'
 +++
-## BlogBlog 同樂會
 創作動機來自 wiwi 官大為發起的 [BlogBlog 同樂會](https://blogblog.club/party)，可以想成是「個人頁版的作品展」，不收門票、自由參觀。
 
 本屆是第一屆，主題「推坑」，2026 年 1 月 31 日截止投稿。
