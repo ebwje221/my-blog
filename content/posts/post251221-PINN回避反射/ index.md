@@ -1,6 +1,6 @@
 +++
 date = '2025-12-21T11:30:16+08:00'
-draft = true
+draft = false
 title = 'PINN回避反射'
 +++
 做好工作真的不簡單，從分配到 PINN 組別以後我深有所感，其中的碩一生大概是選有修人工智慧那門課。（PINN = Physics Informed Neural Networks）
