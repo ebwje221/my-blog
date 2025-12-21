@@ -6,14 +6,47 @@
     <description>Recent content in Posts on 惠姑个厝</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 18 Dec 2025 11:53:20 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 11:30:16 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/my-blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post251218 錯字</title>
+      <title>PINN回避反射</title>
+      <link>http://localhost:1313/my-blog/posts/post251221-pinn%E5%9B%9E%E9%81%BF%E5%8F%8D%E5%B0%84/-index/</link>
+      <pubDate>Sun, 21 Dec 2025 11:30:16 +0800</pubDate>
+      <guid>http://localhost:1313/my-blog/posts/post251221-pinn%E5%9B%9E%E9%81%BF%E5%8F%8D%E5%B0%84/-index/</guid>
+      <description>&lt;p&gt;做好工作真的不簡單，從分配到 PINN 組別以後我深有所感，其中的碩一生大概是選有修人工智慧那門課。（PINN = Physics Informed Neural Networks）&lt;/p&gt;
+&lt;p&gt;一轉眼又過了一個星期，明天是令人心驚膽顫的小組會議（group meeting）。目前進度零、彷彿希望也歸零。&lt;/p&gt;
+&lt;p&gt;確實如學長所言，我該投入更多時間、讓事情持續進展云云。現在時間是充裕了，時間要投在哪裡仍舊沒有頭緒。也不能說完全沒有吧，算是走投無路啦。&lt;/p&gt;
+&lt;p&gt;一開始想得相當正面，像這週剛結束諮商那樣，&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「對於接下來的研究時間，你會怎麼安排？」&lt;/p&gt;
+&lt;p&gt;「與生活結合吧。根據過去經驗，能學的好的技能、知識無一不是融入日常生活中，或許是最適合的方法。……找到 &lt;em&gt;意義感&lt;/em&gt; ，附諸行動與時間可能是最有效的。」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;這幾天晚上有空的時間就在找啊找，Navier-Stokes 方程式、二維的解析解、理論力學、《自然哲學的數學原理》，YT 上各種混亂中尋找方向，後來的結論是愈找愈亂，可喜可賀。&lt;/p&gt;
+&lt;p&gt;昨天蝦皮上買的次中音直笛也到貨了，Aulos 一支 2050，四天到貨，大概也是 YT 上一頓觀看影片後的購物行為。我還算是了解我自己的。
+&lt;figure class=&#34;center&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;post251221_%e7%9b%b4%e7%ac%9b.jpg&#34;
+         alt=&#34;Aulos tenor recorder&#34; width=&#34;75%&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;邊寫這段的時候還想：會不會無意義也是種意義呢？（看得出來有點絕望的處境&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>錯字</title>
       <link>http://localhost:1313/my-blog/posts/post251218-%E9%8C%AF%E5%AD%97/</link>
       <pubDate>Thu, 18 Dec 2025 11:53:20 +0800</pubDate>
       <guid>http://localhost:1313/my-blog/posts/post251218-%E9%8C%AF%E5%AD%97/</guid>
-      <description></description>
+      <description>&lt;p&gt;在沉重的實驗室生活裡為各位同伴們增添生活趣味。&lt;/p&gt;
+&lt;p&gt;以下附上 Line 群組原文&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;學長：（報告內文）……目前仍未達到收斂狀態，故增加訓練布樹繼續執行訓練。
+&lt;figure class=&#34;center&#34;&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;post251218_%e5%b8%83%e6%a8%b9.jpg&#34;
+         alt=&#34;增加訓練「布樹」&#34; width=&#34;75%&#34;/&gt; 
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;教授：＠蔡維 and All, 基本該作好應作好的事情，請持續提醒自己要作好，內化變成習慣。很多時候可能只多花不到幾分鐘，那是態度的問題，不是能力或時間不夠的問題。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;作&lt;/em&gt; 研究的好夥伴、伴你 &lt;em&gt;作&lt;/em&gt; 好每份重要文書，誠摯推薦 &lt;strong&gt;倉頡輸入法&lt;/strong&gt; 。&lt;/p&gt;</description>
     </item>
     <item>
       <title>BlogBlog 同樂會撰文靈感</title>
