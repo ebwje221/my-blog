@@ -5,3 +5,21 @@ theme = 'PaperMod'
 
 [params]
   defaultTheme = 'auto' # 自動切換深色/淺色模式
+
+# ... (保留您原本的設定，如 baseURL, languageCode, title 等)
+
+theme = "PaperMod"  # 確保您的主題設定為 PaperMod
+
+[params.homeInfoParams]
+  Title = "歡迎來到惠姑的內心世界"
+  Content = "hint: 惠姑可能不是女性"
+
+# 第一個社群圖示
+[[params.socialIcons]]
+  name = "github"       # 範例：平台名稱
+  url = "https://github.com/ebwje221/my-blog"
+
+# 第二個社群圖示
+#[[params.socialIcons]]
+#  name = "twitter"      # 範例：平台名稱
+#  url = "https://twitter.com/您的帳號"
