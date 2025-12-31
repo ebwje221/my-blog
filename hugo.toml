@@ -12,7 +12,11 @@ theme = "PaperMod"  # 確保您的主題設定為 PaperMod
 
 [params.homeInfoParams]
   Title = "歡迎來到惠姑的內心世界"
-  Content = "hint: 惠姑可能不是女性"
+  Content = """
+    hint: 惠姑可能不是女性
+    - 竹南國小、竹南國中、新竹高中、成功大學
+    - 現在在清華大學，研究 PINN (Physics-Informed Neural Network)
+    """
 
 # 第一個社群圖示
 [[params.socialIcons]]
