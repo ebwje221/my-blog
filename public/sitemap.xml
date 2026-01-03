@@ -2,32 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-blog/posts/</loc>
+    <loc>https://rhymelifer.com/posts/</loc>
     <lastmod>2026-01-01T02:27:22+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/</loc>
+    <loc>https://rhymelifer.com/</loc>
     <lastmod>2026-01-01T02:27:22+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/posts/post260101-%E8%A5%BF%E6%B4%8B%E6%96%B0%E5%B9%B4/</loc>
+    <loc>https://rhymelifer.com/posts/post260101-%E8%A5%BF%E6%B4%8B%E6%96%B0%E5%B9%B4/</loc>
     <lastmod>2026-01-01T02:27:22+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/posts/post251226-%E6%9D%8E%E9%B5%91%E5%A8%9F%E6%95%99%E6%8E%88%E8%81%B2%E9%9F%BB%E5%AD%B8/</loc>
-    <lastmod>2025-12-26T12:45:33+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-blog/posts/post251221-pinn%E5%9B%9E%E9%81%BF%E5%8F%8D%E5%B0%84/-index/</loc>
+    <loc>https://rhymelifer.com/posts/post251221-pinn%E5%9B%9E%E9%81%BF%E5%8F%8D%E5%B0%84/-index/</loc>
     <lastmod>2025-12-21T11:30:16+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/posts/post251218-%E9%8C%AF%E5%AD%97/</loc>
+    <loc>https://rhymelifer.com/posts/post251218-%E9%8C%AF%E5%AD%97/</loc>
     <lastmod>2025-12-18T11:53:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/posts/post251217-blogblogclub/</loc>
-    <lastmod>2025-12-17T22:17:52+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-blog/posts/my-first-post/</loc>
+    <loc>https://rhymelifer.com/posts/my-first-post/</loc>
     <lastmod>2025-12-17T22:46:58+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/categories/</loc>
+    <loc>https://rhymelifer.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/my-blog/tags/</loc>
+    <loc>https://rhymelifer.com/tags/</loc>
   </url>
 </urlset>

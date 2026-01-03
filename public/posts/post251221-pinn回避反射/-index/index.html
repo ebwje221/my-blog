@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto" data-theme="auto">
 
-<head><script src="/my-blog/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=my-blog/livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="noindex, nofollow">
+<meta name="robots" content="index, follow">
 <title>PINN回避反射 | 惠姑个厝</title>
 <meta name="keywords" content="">
 <meta name="description" content="做好工作真的不簡單，從分配到 PINN 組別以後我深有所感，其中的碩一生大概是選有修人工智慧那門課。（PINN = Physics Informed Neural Networks）
@@ -25,16 +25,16 @@
 非常鬱悶，嵌入圖片不讓我顯示，炫耀都不讓炫耀，這麼霸道？
 心情更不好了，想放棄治療。">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/my-blog/posts/post251221-pinn%E5%9B%9E%E9%81%BF%E5%8F%8D%E5%B0%84/-index/">
-<link crossorigin="anonymous" href="/my-blog/assets/css/stylesheet.343cc480b9ffc8f04ccbe5e968ad674880cab773ec19905e93033065c1e7a804.css" integrity="sha256-NDzEgLn/yPBMy&#43;XpaK1nSIDKt3PsGZBekwMwZcHnqAQ=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/my-blog/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/my-blog/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/my-blog/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/my-blog/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/my-blog/safari-pinned-tab.svg">
+<link rel="canonical" href="https://rhymelifer.com/posts/post251221-pinn%E5%9B%9E%E9%81%BF%E5%8F%8D%E5%B0%84/-index/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.343cc480b9ffc8f04ccbe5e968ad674880cab773ec19905e93033065c1e7a804.css" integrity="sha256-NDzEgLn/yPBMy&#43;XpaK1nSIDKt3PsGZBekwMwZcHnqAQ=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://rhymelifer.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://rhymelifer.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://rhymelifer.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://rhymelifer.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://rhymelifer.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/my-blog/posts/post251221-pinn%E5%9B%9E%E9%81%BF%E5%8F%8D%E5%B0%84/-index/">
+<link rel="alternate" hreflang="en" href="https://rhymelifer.com/posts/post251221-pinn%E5%9B%9E%E9%81%BF%E5%8F%8D%E5%B0%84/-index/">
 <noscript>
     <style>
         #theme-toggle,
@@ -86,13 +86,100 @@
         document.querySelector("html").dataset.theme = 'light';
     }
 
+</script><meta property="og:url" content="https://rhymelifer.com/posts/post251221-pinn%E5%9B%9E%E9%81%BF%E5%8F%8D%E5%B0%84/-index/">
+  <meta property="og:site_name" content="惠姑个厝">
+  <meta property="og:title" content="PINN回避反射">
+  <meta property="og:description" content="做好工作真的不簡單，從分配到 PINN 組別以後我深有所感，其中的碩一生大概是選有修人工智慧那門課。（PINN = Physics Informed Neural Networks）
+一轉眼又過了一個星期，明天是令人心驚膽顫的小組會議（group meeting）。目前進度零、彷彿希望也歸零。
+確實如學長所言，我該投入更多時間、讓事情持續進展云云。現在時間是充裕了，時間要投在哪裡仍舊沒有頭緒。也不能說完全沒有吧，算是走投無路啦。
+一開始想得相當正面，像這週剛結束諮商那樣，
+「對於接下來的研究時間，你會怎麼安排？」
+「與生活結合吧。根據過去經驗，能學的好的技能、知識無一不是融入日常生活中，或許是最適合的方法。……找到 意義感 ，附諸行動與時間可能是最有效的。」
+這幾天晚上有空的時間就在找啊找，Navier-Stokes 方程式、二維的解析解、理論力學、《自然哲學的數學原理》，YT 上各種混亂中尋找方向，後來的結論是愈找愈亂，可喜可賀。
+邊寫這段的時候還想：會不會無意義也是種意義呢？（看得出來有點絕望的處境
+昨天蝦皮上買的次中音直笛也到貨了，Aulos 一支 2050，四天到貨，大概也是 YT 上一頓觀看影片後的購物行為。我還算是了解我自己的。 非常鬱悶，嵌入圖片不讓我顯示，炫耀都不讓炫耀，這麼霸道？
+心情更不好了，想放棄治療。">
+  <meta property="og:locale" content="zh-tw">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-12-21T11:30:16+08:00">
+    <meta property="article:modified_time" content="2025-12-21T11:30:16+08:00">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="PINN回避反射">
+<meta name="twitter:description" content="做好工作真的不簡單，從分配到 PINN 組別以後我深有所感，其中的碩一生大概是選有修人工智慧那門課。（PINN = Physics Informed Neural Networks）
+一轉眼又過了一個星期，明天是令人心驚膽顫的小組會議（group meeting）。目前進度零、彷彿希望也歸零。
+確實如學長所言，我該投入更多時間、讓事情持續進展云云。現在時間是充裕了，時間要投在哪裡仍舊沒有頭緒。也不能說完全沒有吧，算是走投無路啦。
+一開始想得相當正面，像這週剛結束諮商那樣，
+
+「對於接下來的研究時間，你會怎麼安排？」
+「與生活結合吧。根據過去經驗，能學的好的技能、知識無一不是融入日常生活中，或許是最適合的方法。……找到 意義感 ，附諸行動與時間可能是最有效的。」
+
+這幾天晚上有空的時間就在找啊找，Navier-Stokes 方程式、二維的解析解、理論力學、《自然哲學的數學原理》，YT 上各種混亂中尋找方向，後來的結論是愈找愈亂，可喜可賀。
+邊寫這段的時候還想：會不會無意義也是種意義呢？（看得出來有點絕望的處境
+昨天蝦皮上買的次中音直笛也到貨了，Aulos 一支 2050，四天到貨，大概也是 YT 上一頓觀看影片後的購物行為。我還算是了解我自己的。
+
+     
+
+
+非常鬱悶，嵌入圖片不讓我顯示，炫耀都不讓炫耀，這麼霸道？
+心情更不好了，想放棄治療。">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://rhymelifer.com/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "PINN回避反射",
+      "item": "https://rhymelifer.com/posts/post251221-pinn%E5%9B%9E%E9%81%BF%E5%8F%8D%E5%B0%84/-index/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "PINN回避反射",
+  "name": "PINN回避反射",
+  "description": "做好工作真的不簡單，從分配到 PINN 組別以後我深有所感，其中的碩一生大概是選有修人工智慧那門課。（PINN = Physics Informed Neural Networks）\n一轉眼又過了一個星期，明天是令人心驚膽顫的小組會議（group meeting）。目前進度零、彷彿希望也歸零。\n確實如學長所言，我該投入更多時間、讓事情持續進展云云。現在時間是充裕了，時間要投在哪裡仍舊沒有頭緒。也不能說完全沒有吧，算是走投無路啦。\n一開始想得相當正面，像這週剛結束諮商那樣，\n「對於接下來的研究時間，你會怎麼安排？」\n「與生活結合吧。根據過去經驗，能學的好的技能、知識無一不是融入日常生活中，或許是最適合的方法。……找到 意義感 ，附諸行動與時間可能是最有效的。」\n這幾天晚上有空的時間就在找啊找，Navier-Stokes 方程式、二維的解析解、理論力學、《自然哲學的數學原理》，YT 上各種混亂中尋找方向，後來的結論是愈找愈亂，可喜可賀。\n邊寫這段的時候還想：會不會無意義也是種意義呢？（看得出來有點絕望的處境\n昨天蝦皮上買的次中音直笛也到貨了，Aulos 一支 2050，四天到貨，大概也是 YT 上一頓觀看影片後的購物行為。我還算是了解我自己的。 非常鬱悶，嵌入圖片不讓我顯示，炫耀都不讓炫耀，這麼霸道？\n心情更不好了，想放棄治療。\n",
+  "keywords": [
+    
+  ],
+  "articleBody": "做好工作真的不簡單，從分配到 PINN 組別以後我深有所感，其中的碩一生大概是選有修人工智慧那門課。（PINN = Physics Informed Neural Networks）\n一轉眼又過了一個星期，明天是令人心驚膽顫的小組會議（group meeting）。目前進度零、彷彿希望也歸零。\n確實如學長所言，我該投入更多時間、讓事情持續進展云云。現在時間是充裕了，時間要投在哪裡仍舊沒有頭緒。也不能說完全沒有吧，算是走投無路啦。\n一開始想得相當正面，像這週剛結束諮商那樣，\n「對於接下來的研究時間，你會怎麼安排？」\n「與生活結合吧。根據過去經驗，能學的好的技能、知識無一不是融入日常生活中，或許是最適合的方法。……找到 意義感 ，附諸行動與時間可能是最有效的。」\n這幾天晚上有空的時間就在找啊找，Navier-Stokes 方程式、二維的解析解、理論力學、《自然哲學的數學原理》，YT 上各種混亂中尋找方向，後來的結論是愈找愈亂，可喜可賀。\n邊寫這段的時候還想：會不會無意義也是種意義呢？（看得出來有點絕望的處境\n昨天蝦皮上買的次中音直笛也到貨了，Aulos 一支 2050，四天到貨，大概也是 YT 上一頓觀看影片後的購物行為。我還算是了解我自己的。 非常鬱悶，嵌入圖片不讓我顯示，炫耀都不讓炫耀，這麼霸道？\n心情更不好了，想放棄治療。\n",
+  "wordCount" : "27",
+  "inLanguage": "en",
+  "datePublished": "2025-12-21T11:30:16+08:00",
+  "dateModified": "2025-12-21T11:30:16+08:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://rhymelifer.com/posts/post251221-pinn%E5%9B%9E%E9%81%BF%E5%8F%8D%E5%B0%84/-index/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "惠姑个厝",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://rhymelifer.com/favicon.ico"
+    }
+  }
+}
 </script>
 </head>
 <body id="top">
     <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/my-blog/" accesskey="h" title="惠姑个厝 (Alt + H)">惠姑个厝</a>
+            <a href="https://rhymelifer.com/" accesskey="h" title="惠姑个厝 (Alt + H)">惠姑个厝</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -162,7 +249,7 @@
     </main>
     
 <footer class="footer">
-        <span>&copy; 2026 <a href="http://localhost:1313/my-blog/">惠姑个厝</a></span> · 
+        <span>&copy; 2026 <a href="https://rhymelifer.com/">惠姑个厝</a></span> · 
 
     <span>
         Powered by

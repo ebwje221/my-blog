@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on 惠姑个厝</title>
-    <link>http://localhost:1313/my-blog/posts/</link>
+    <link>https://rhymelifer.com/posts/</link>
     <description>Recent content in Posts on 惠姑个厝</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 01 Jan 2026 02:27:22 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/my-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rhymelifer.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>西洋新年快樂</title>
-      <link>http://localhost:1313/my-blog/posts/post260101-%E8%A5%BF%E6%B4%8B%E6%96%B0%E5%B9%B4/</link>
+      <link>https://rhymelifer.com/posts/post260101-%E8%A5%BF%E6%B4%8B%E6%96%B0%E5%B9%B4/</link>
       <pubDate>Thu, 01 Jan 2026 02:27:22 +0800</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/post260101-%E8%A5%BF%E6%B4%8B%E6%96%B0%E5%B9%B4/</guid>
+      <guid>https://rhymelifer.com/posts/post260101-%E8%A5%BF%E6%B4%8B%E6%96%B0%E5%B9%B4/</guid>
       <description>&lt;h2 id=&#34;公曆佛曆各種曆&#34;&gt;公曆佛曆各種曆&lt;/h2&gt;
 &lt;p&gt;大四有一陣子迷上了同餘數學，一迷就是兩個禮拜。算是階段性成癮吧。&lt;/p&gt;
 &lt;p&gt;同餘，顧名思義，研究整數除法「相同餘數」時誕生的。&lt;/p&gt;
@@ -28,57 +28,23 @@
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;問：&lt;/strong&gt; 甲子年對應西元哪一年？&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;要訂哪一個日子作為曆法第一天？&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;放心，接下來的段落不是推導 2026 是丙午年，是干支的第 43 年。&lt;/p&gt;
-&lt;p&gt;而是就這仔細一想，西元元年以耶穌為準、佛曆那自然以喬達摩‧悉達多為準、伊斯蘭曆以穆罕默德為準、干支紀年據記載始於三皇五帝&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+&lt;p&gt;放心，接下來的段落不是推導 2026 是丙午年&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;，是干支的第 43 年。&lt;/p&gt;
+&lt;p&gt;而是就這仔細一想，西元元年以耶穌為準、佛曆那自然以喬達摩‧悉達多為準、伊斯蘭曆以穆罕默德為準、干支紀年據記載始於三皇五帝&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
 &lt;p&gt;看著以上這些例子，似乎時間的規則是某個傳說:相傳某人於某時某地成某事，此番成就影響某群體如此這般深遠，便以當時作為某曆之始、延用至今。&lt;/p&gt;
 &lt;p&gt;這也太神奇啦。原本我想了解的姑且算是個數學問題吧，隨著查找資料、追問答案，漸漸地就變成一個關於歷史、宗教、人類、社會的綜合問題。問題從本人出發，回到前人身上。&lt;/p&gt;
 &lt;p&gt;提問，好像是個人到人的腦補過程？&lt;/p&gt;
-&lt;h2 id=&#34;漫畫和歷史課本&#34;&gt;漫畫和歷史課本&lt;/h2&gt;
+&lt;h2 id=&#34;漫畫紀年法&#34;&gt;漫畫紀年法&lt;/h2&gt;
 &lt;p&gt;《ONE PIECE》，海賊王發行於 1997 年 7 月 22 日，是人生第一部連載漫畫，在 2010 年偉大的航路深深震撼我的想像世界。&lt;/p&gt;
 &lt;p&gt;擇年不如撞年，就訂 2010 為我的漫畫啟蒙年吧。&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;西元4年、64年、……、1924年、1984年、2044年、……&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;
-&lt;p&gt;據《史記》，第三干「游兆」、第七支「敦牂」，丙午年最早應該寫作「游兆敦牂」。&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>李鵑娟教授聲韻學</title>
-      <link>http://localhost:1313/my-blog/posts/post251226-%E6%9D%8E%E9%B5%91%E5%A8%9F%E6%95%99%E6%8E%88%E8%81%B2%E9%9F%BB%E5%AD%B8/</link>
-      <pubDate>Fri, 26 Dec 2025 12:45:33 +0800</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/post251226-%E6%9D%8E%E9%B5%91%E5%A8%9F%E6%95%99%E6%8E%88%E8%81%B2%E9%9F%BB%E5%AD%B8/</guid>
-      <description>&lt;h2 id=&#34;ㄅㄆㄇㄈ的前世今生&#34;&gt;ㄅㄆㄇㄈ的前世今生&lt;/h2&gt;
-&lt;p&gt;高二國文課堂上，阿甘（國文老師）講到樂府詩時，開始幫我們回憶韻文相關的國學常識，就這麼峰迴路轉地講到了聲韻學。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;小學，國學的基礎學科，文字、聲韻、訓詁。用現在的話說，就是國文選擇題前面 2, 3 題考的形、音、義。&lt;/p&gt;
-&lt;p&gt;聲韻學，是中文系大三的一門必修，難度相當於微積分。&lt;/p&gt;
-&lt;p&gt;這堂課的考試，要求學生們把字典的目錄背起來……&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;那是我對這個學科形成認知的第一印象，在 2019 年、高二下學期。
-會說「形成認知」，是因為早在國小學的注音，就是聲韻跟我們的初次邂逅。
-熟悉的ㄅㄆㄇㄈ，&lt;a href=&#34;https://gnn.gamer.com.tw/detail.php?sn=214661&#34;&gt;精靈的語言&lt;/a&gt;（？&lt;/p&gt;
-&lt;p&gt;6年前阿甘種下的這顆聲韻學種子，從高二下一路憋著，憋到了大一下的後半學期，開始了尋找ㄅㄆㄇㄈ前世今生的冒險&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
-&lt;p&gt;時隔兩年回顧我的聲韻啟蒙課，李鵑娟教授在台南極樂寺開講的&lt;a href=&#34;https://youtube.com/playlist?list=PLu1TU1gf_wJB0dR65JxOh3FR0ua5HF-cC&amp;amp;si=Kab8HuPtqB4BBfid&#34;&gt;聲韻學&lt;/a&gt;。&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;當時其實研究的是詩經擬音，想看懂IPA、學上古音構擬，不過這個好像讓話題更不好聊了。所以這邊寫「ㄅㄆㄇㄈ前世今生」。&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</description>
+&lt;p&gt;【解】&lt;/p&gt;
+&lt;p&gt;已知:西元 4 年為甲子年 (即 $西元年-3$ 與 干支年同餘，除數 $60$)，且 1980 = 60*33 ≡ 0 (mod 60)&lt;/p&gt;
+&lt;p&gt;2010-3 = 2007, 2007 ≡ 2007 - 1980 ≡ 27 (mod 60) 第 27 干支年。&lt;/p&gt;</description>
     </item>
     <item>
       <title>PINN回避反射</title>
-      <link>http://localhost:1313/my-blog/posts/post251221-pinn%E5%9B%9E%E9%81%BF%E5%8F%8D%E5%B0%84/-index/</link>
+      <link>https://rhymelifer.com/posts/post251221-pinn%E5%9B%9E%E9%81%BF%E5%8F%8D%E5%B0%84/-index/</link>
       <pubDate>Sun, 21 Dec 2025 11:30:16 +0800</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/post251221-pinn%E5%9B%9E%E9%81%BF%E5%8F%8D%E5%B0%84/-index/</guid>
+      <guid>https://rhymelifer.com/posts/post251221-pinn%E5%9B%9E%E9%81%BF%E5%8F%8D%E5%B0%84/-index/</guid>
       <description>&lt;p&gt;做好工作真的不簡單，從分配到 PINN 組別以後我深有所感，其中的碩一生大概是選有修人工智慧那門課。（PINN = Physics Informed Neural Networks）&lt;/p&gt;
 &lt;p&gt;一轉眼又過了一個星期，明天是令人心驚膽顫的小組會議（group meeting）。目前進度零、彷彿希望也歸零。&lt;/p&gt;
 &lt;p&gt;確實如學長所言，我該投入更多時間、讓事情持續進展云云。現在時間是充裕了，時間要投在哪裡仍舊沒有頭緒。也不能說完全沒有吧，算是走投無路啦。&lt;/p&gt;
@@ -100,9 +66,9 @@
     </item>
     <item>
       <title>錯字</title>
-      <link>http://localhost:1313/my-blog/posts/post251218-%E9%8C%AF%E5%AD%97/</link>
+      <link>https://rhymelifer.com/posts/post251218-%E9%8C%AF%E5%AD%97/</link>
       <pubDate>Thu, 18 Dec 2025 11:53:20 +0800</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/post251218-%E9%8C%AF%E5%AD%97/</guid>
+      <guid>https://rhymelifer.com/posts/post251218-%E9%8C%AF%E5%AD%97/</guid>
       <description>&lt;p&gt;在沉重的實驗室生活裡為各位同伴們增添生活趣味。&lt;/p&gt;
 &lt;p&gt;以下附上 Line 群組原文&lt;/p&gt;
 &lt;blockquote&gt;
@@ -117,24 +83,10 @@
 &lt;p&gt;&lt;em&gt;作&lt;/em&gt; 研究的好夥伴、伴你 &lt;em&gt;作&lt;/em&gt; 好每份重要文書，誠摯推薦 &lt;strong&gt;倉頡輸入法&lt;/strong&gt; 。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>BlogBlog 同樂會撰文靈感</title>
-      <link>http://localhost:1313/my-blog/posts/post251217-blogblogclub/</link>
-      <pubDate>Wed, 17 Dec 2025 22:17:52 +0800</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/post251217-blogblogclub/</guid>
-      <description>&lt;p&gt;創作動機來自 wiwi 官大為發起的 &lt;a href=&#34;https://blogblog.club/party&#34;&gt;BlogBlog 同樂會&lt;/a&gt;，可以想成是「個人頁版的作品展」，不收門票、自由參觀。&lt;/p&gt;
-&lt;p&gt;本屆是第一屆，主題「推坑」，2026 年 1 月 31 日截止投稿。&lt;/p&gt;
-&lt;p&gt;下面記錄想推坑的內容：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;喜劇類：喜劇之王單口季、脫口秀大會、相聲瓦舍&lt;/li&gt;
-&lt;li&gt;音樂類：KPOP - SEVENTEEN&lt;/li&gt;
-&lt;li&gt;應用類：倉頡輸入法&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>第一篇貼文 251217</title>
-      <link>http://localhost:1313/my-blog/posts/my-first-post/</link>
+      <link>https://rhymelifer.com/posts/my-first-post/</link>
       <pubDate>Wed, 17 Dec 2025 17:16:22 +0800</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/my-first-post/</guid>
+      <guid>https://rhymelifer.com/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;blogblog-同樂會&#34;&gt;BlogBlog 同樂會&lt;/h2&gt;
 &lt;p&gt;創作動機來自 wiwi 官大為發起的 &lt;a href=&#34;https://blogblog.club/party&#34;&gt;BlogBlog 同樂會&lt;/a&gt;，可以想成是「個人頁版的作品展」，不收門票、自由參觀。&lt;/p&gt;
 &lt;p&gt;本屆是第一屆，主題「推坑」，2026 年 1 月 31 日截止投稿。&lt;/p&gt;
