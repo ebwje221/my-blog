@@ -6,8 +6,35 @@
     <description>Recent content on 惠姑个厝</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 04 Jan 2026 13:59:57 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 21:57:49 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>慣研究生</title>
+      <link>http://localhost:1313/posts/post260106-%E6%85%A3%E7%A0%94%E7%A9%B6%E7%94%9F/</link>
+      <pubDate>Tue, 06 Jan 2026 21:57:49 +0800</pubDate>
+      <guid>http://localhost:1313/posts/post260106-%E6%85%A3%E7%A0%94%E7%A9%B6%E7%94%9F/</guid>
+      <description>&lt;p&gt;一個普通的週二晚上，準備跑一個 57 分鐘多的資料生成程式，將來要餵給模型用的。&lt;/p&gt;
+&lt;p&gt;寒冷的晚上，把手放在筆電風扇出口還能順便取取暖，滿方便的。&lt;/p&gt;
+&lt;p&gt;想著這 57 分鐘閒著也是閒著，請 Gemini 評估我的 GPU 狀態
+&lt;img alt=&#34;nvidia-smi&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post260106-%E6%85%A3%E7%A0%94%E7%A9%B6%E7%94%9F/nvidia-smi_run_ldc_jax.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Gemini:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(上略)&lt;/p&gt;
+&lt;p&gt;總結建議：不需要做任何更改，請保持現狀。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;不要增加 Batch Size：改成 128 極高機率會爆顯存。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;不要減少 Batch Size：改成 32 會導致 GPU 使用率下降（可能跌至 60-80%），導致生成總時間變長。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;目前的配置 (BATCH_SIZE=64) 正在 &lt;strong&gt;榨乾&lt;/strong&gt; 您 RTX 4050 的每一滴效能，是效率最高的狀態。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;突然覺得 Gemini 像是我的助理，我像一個反派研究員。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;榨乾&lt;/strong&gt; 我的設備的每一滴效能，顯然不是什麼正派的手法，可以預想到做完這次專案之後，我這任勞任怨的 MSI 筆電將損失個 5 年壽命。最後這個筆電會在一次模擬中不堪重負，當機而亡。&lt;/p&gt;
+&lt;p&gt;而造成這個後果的人，正是我這萬惡的慣研究生，終端機一個指令 &lt;code&gt;python3 ldc_data_jax.py&lt;/code&gt; 敲下 &lt;!-- raw HTML omitted --&gt;Enter&lt;!-- raw HTML omitted --&gt; 鍵，眼睛眨都不眨一下。可以說是冷血無情了。太嚇人了，自己都害怕。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>推坑 《一弦定音！》</title>
       <link>http://localhost:1313/posts/post260104-%E6%8E%A8%E5%9D%91/</link>
