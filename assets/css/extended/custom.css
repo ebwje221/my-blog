@@ -1,0 +1,32 @@
+/* --- KBD 按鍵樣式優化 --- */
+kbd {
+    /* 1. 基礎外觀：字體與背景 */
+    font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+    background-color: #f7f7f7;
+    color: #333;
+    
+    /* 2. 形狀設定：圓角與間距 */
+    display: inline-block;
+    padding: 0.15em 0.5em; /* 上下少一點，左右多一點 */
+    font-size: 0.85em;     /* 比一般文字稍小，更精緻 */
+    line-height: 1.2;
+    border-radius: 6px;    /* 圓角半徑，數值越大越圓 */
+    
+    /* 3. 邊框與關鍵的 3D 立體感 */
+    border: 1px solid #ccc; /* 實體邊框 */
+    /* 下方陰影 (0 2px 0) 模擬按鍵厚度 */
+    box-shadow: 0 2px 0 #ccc; 
+    
+    /* 4. 微調位置 */
+    margin: 0 0.2em;
+    vertical-align: middle; /* 讓按鍵跟文字中線對齊 */
+}
+
+/* --- 深色模式 (Dark Mode) 適配 --- */
+/* PaperMod 會在 body 加入 "dark" class，我們利用這個特性 */
+.dark kbd {
+    background-color: #333;
+    color: #eee;
+    border-color: #666;
+    box-shadow: 0 2px 0 #555; /* 深色的陰影 */
+}

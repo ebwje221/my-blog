@@ -3,19 +3,26 @@ languageCode = 'zh-tw'
 title = '惠姑个厝'
 theme = 'PaperMod'
 
+
 [params]
   defaultTheme = 'auto' # 自動切換深色/淺色模式
-
-# ... (保留您原本的設定，如 baseURL, languageCode, title 等)
-
-theme = "PaperMod"  # 確保您的主題設定為 PaperMod
+  # ... (保留您原本的設定，如 baseURL, languageCode, title 等)
+  theme = "PaperMod"  # 確保您的主題設定為 PaperMod
+  
+  ShowShareButtons = true
+  ShowReadingTime = true
+  ShowToc = true # ToC = Table of Contents
+  #TocOpen = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  
+  ShowCodeCopyButtons = true
 
 [params.homeInfoParams]
   Title = "歡迎來到惠姑的內心世界"
   Content = """
     hint: 惠姑可能不是女性
-    - 竹南國小、竹南國中、新竹高中、成功大學
-    - 現在在清華大學，研究 PINN (Physics-Informed Neural Network)
+    - 竹南國小、竹南國中、新竹高中、成功大學、清華大學
     """
 
 # 第一個社群圖示
