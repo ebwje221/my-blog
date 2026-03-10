@@ -22,6 +22,7 @@ theme = 'PaperMod'
   Title = "歡迎來到惠姑的內心世界"
   Content = """
     hint: 惠姑可能不是女性
+    hintt: 惠姑可能是腐女
     - 竹南國小、竹南國中、新竹高中、成功大學、清華大學
     """
 
@@ -34,3 +35,16 @@ theme = 'PaperMod'
 #[[params.socialIcons]]
 #  name = "twitter"      # 範例：平台名稱
 #  url = "https://twitter.com/您的帳號"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # 允許在 Markdown 中直接寫 HTML
+  [markup.goldmark.extensions]
+    [markup.goldmark.extensions.passthrough]
+      enable = true
+      auto = true
+      # 告訴 Hugo：這些符號包起來的內容是數學，不要碰！
+      [markup.goldmark.extensions.passthrough.delimiters]
+        block = [['\[', '\]'], ['$$', '$$']]
+        inline = [['\(', '\)'], ['$', '$']]

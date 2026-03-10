@@ -1,213 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 惠姑个厝</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on 惠姑个厝</description>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 06 Jan 2026 21:57:49 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 18:39:20 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>字體試驗頁</title>
+      <link>http://localhost:1313/posts/post260310-%E5%AD%97%E9%AB%94%E8%A9%A6%E9%A9%97%E9%A0%81/</link>
+      <pubDate>Tue, 10 Mar 2026 18:39:20 +0800</pubDate>
+      <guid>http://localhost:1313/posts/post260310-%E5%AD%97%E9%AB%94%E8%A9%A6%E9%A9%97%E9%A0%81/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;ctext_font-test-page_2026Mar&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post260310-%E5%AD%97%E9%AB%94%E8%A9%A6%E9%A9%97%E9%A0%81/ctext_font-test-page_2026Mar.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;前天打開&lt;a href=&#34;https://ctext.org/zh&#34;&gt;中國哲學書電子化計劃&lt;/a&gt;網站的&lt;a href=&#34;https://ctext.org/font-test-page/zh&#34;&gt;字體試驗頁&lt;/a&gt;，如附圖，竟然多了 CJK 擴展 F ~ J 區字體。&lt;/p&gt;&#xA;&lt;p&gt;根據&lt;a href=&#34;https://en.wikipedia.org/wiki/CJK_characters&#34;&gt;維基百科&lt;/a&gt;統計，共計新增 21542 字。&lt;/p&gt;&#xA;&lt;p&gt;CJK ideographs in Unicode&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Block name&lt;/th&gt;&#xA;          &lt;th&gt;Chart range&lt;/th&gt;&#xA;          &lt;th&gt;Characters&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.unicode.org/charts/PDF/U4E00.pdf&#34;&gt;CJK Unified Ideographs&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;4E00–9FFF&lt;/td&gt;&#xA;          &lt;td&gt;20992&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;CJK Unified Ideographs Extension A&lt;/td&gt;&#xA;          &lt;td&gt;3400-4DBF&lt;/td&gt;&#xA;          &lt;td&gt;6592&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;CJK Unified Ideographs Extension B&lt;/td&gt;&#xA;          &lt;td&gt;20000-2A6DF&lt;/td&gt;&#xA;          &lt;td&gt;42720&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;CJK Unified Ideographs Extension C&lt;/td&gt;&#xA;          &lt;td&gt;2A700–2B73F&lt;/td&gt;&#xA;          &lt;td&gt;4160&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;CJK Unified Ideographs Extension D&lt;/td&gt;&#xA;          &lt;td&gt;2B740–2B81F&lt;/td&gt;&#xA;          &lt;td&gt;222&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;CJK Unified Ideographs Extension E&lt;/td&gt;&#xA;          &lt;td&gt;2B820–2CEAF&lt;/td&gt;&#xA;          &lt;td&gt;5774&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;CJK Unified Ideographs Extension F&lt;/td&gt;&#xA;          &lt;td&gt;2CEB0–2EBEF&lt;/td&gt;&#xA;          &lt;td&gt;7473&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;CJK Unified Ideographs Extension G&lt;/td&gt;&#xA;          &lt;td&gt;30000–3134F&lt;/td&gt;&#xA;          &lt;td&gt;4939&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;CJK Unified Ideographs Extension H&lt;/td&gt;&#xA;          &lt;td&gt;31350–323AF&lt;/td&gt;&#xA;          &lt;td&gt;4192&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;CJK Unified Ideographs Extension I&lt;/td&gt;&#xA;          &lt;td&gt;2EBF0–2EE5F&lt;/td&gt;&#xA;          &lt;td&gt;662&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;CJK Unified Ideographs Extension J&lt;/td&gt;&#xA;          &lt;td&gt;323B0–3347F&lt;/td&gt;&#xA;          &lt;td&gt;4298&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;註：Chart range 使用 16 進制編號， A = 10, B = 11, C = 12, &amp;hellip;, F = 15 。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>加不加糖</title>
+      <link>http://localhost:1313/posts/post260129-%E5%8A%A0%E4%B8%8D%E5%8A%A0%E7%B3%96/</link>
+      <pubDate>Tue, 27 Jan 2026 12:52:47 +0800</pubDate>
+      <guid>http://localhost:1313/posts/post260129-%E5%8A%A0%E4%B8%8D%E5%8A%A0%E7%B3%96/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;這是我的 &lt;a href=&#34;https://blogblog.club/party/&#34;&gt;BlogBlog 同樂會 - 2026 年 2 月&lt;/a&gt; 的投稿文章。本月主題是 &lt;a href=&#34;https://wiwi.blog/blog/blogblog-party-feb-2026/&#34;&gt;只有我這樣嗎？&lt;/a&gt;，由 &lt;a href=&#34;https://wiwi.blog/&#34;&gt;Wiwi&lt;/a&gt; 主持。如果你有自己的部落格，歡迎一起來參加！&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;跟同學吃午餐時，套餐附了一杯有糖的紅茶，從這杯紅茶展開一番討論。&lt;/p&gt;&#xA;&lt;p&gt;在此鄭重宣布，喝茶不可加糖。從對喝茶有印象起，以煮開水沖泡茶葉得到那種水溶液，是最標準的茶葉茶；茶葉茶，配談天說地聊八卦，永不退流行。&lt;/p&gt;&#xA;&lt;p&gt;當我第一次喝到早餐店的紅茶，高濃度多羥基醛混著紅茶突襲剛剛才幾分清醒的味蕾，衝擊之大，那一口幾乎就要從口中發射出來。就一口下去，人也清醒著，連帶著殘垣斷壁的味蕾。&lt;/p&gt;&#xA;&lt;p&gt;此後，對於有糖茶飲一律生理 + 心理厭惡。&lt;/p&gt;&#xA;&lt;p&gt;紅茶之外，同學也舉出了咖啡、巧克力兩種典型例子。&lt;/p&gt;&#xA;&lt;p&gt;咖啡在印象中跟紅茶類似，都不加糖。我的理解是不干擾香味與尾韻的發展，糖這類強刺激味覺會使入口的過程中味覺、嗅覺嚴重失衡，造成品嘗災難。而巧克力算是特例，若無特別標示，都是甜味加可可粉、可可脂&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;&#xA;&lt;p&gt;還有不得不提我的查甫祖（祖母的父親），據阿媽口述，曾看到阿祖白飯加米酒再攦糖一起吃。那個狀況就相當於一口氣吞了三顆血糖炸彈，而且吃了不只一碗。阿祖的胰島素爆肝工作。&lt;/p&gt;&#xA;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li id=&#34;fn:1&#34;&gt;&#xA;&lt;p&gt;雖然市面上似乎多數主成分是糖和奶粉，可可粉、可可脂排得很後面。只能算是「形式巧克力」吧。&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>社交學習障礙</title>
+      <link>http://localhost:1313/posts/post260127-%E7%A4%BE%E4%BA%A4%E5%AD%B8%E7%BF%92%E9%9A%9C%E7%A4%99/</link>
+      <pubDate>Tue, 27 Jan 2026 10:43:15 +0800</pubDate>
+      <guid>http://localhost:1313/posts/post260127-%E7%A4%BE%E4%BA%A4%E5%AD%B8%E7%BF%92%E9%9A%9C%E7%A4%99/</guid>
+      <description>&lt;p&gt;看到 wiwi 公布的 BlogBlog 同樂會新貼文就知道，已經快一個月沒有發文了呢。&lt;/p&gt;&#xA;&lt;p&gt;……就，算是意料中的。&lt;/p&gt;&#xA;&lt;p&gt;唉。&lt;/p&gt;&#xA;&lt;p&gt;言歸正傳&lt;/p&gt;&#xA;&lt;p&gt;在過去經驗中，與人相處是我的一大難題。尤其體現在興趣「不合群」上，特立獨行、與眾不同。&lt;/p&gt;&#xA;&lt;p&gt;在高中某次體育課上，大家分組練習&lt;strong&gt;上籃&lt;/strong&gt;，聽著這個熟悉又陌生的名詞，回憶起上一次誤入球場，在國小的一個英文夏令營。&lt;/p&gt;&#xA;&lt;p&gt;當時大家被帶到籃球場上，外藉老師開始運球了，一開始我沒想那麼多。忽然聽到老師喊我，意思是要我去搶他手上的球，我猜是做攻防練習。當時的我想當疑惑：「球不是在你手上玩得好好的，我去跟你搶做什麼？既打擾玩興，拿到球我也不能幹什麼。究竟要表達什麼意思？」&lt;/p&gt;&#xA;&lt;p&gt;於是大家就看到一個呆在原地，似乎沒懂老師的意思，就在旁邊喊「去搶球！去搶球！」&lt;/p&gt;&#xA;&lt;p&gt;眾人爭相搶球，我如如不動。&lt;/p&gt;&#xA;&lt;p&gt;回到現場，就如在學校課間的下課 10 分鐘，班上有一群男生們一溜煙地奔向球場，或占位、或吆喝，相當熱鬧。而我一人像是在拍縮時攝影般待在球場上，不知所措。&lt;/p&gt;&#xA;&lt;p&gt;球場上唯一不懂規則的人、班上歷史期中考 40 分墊底、動力學出題跟練習過的一模一樣還是不會、高二下學期老師的國寫作文評價「毫無邏輯」。「&lt;em&gt;我不屬於這裡&lt;/em&gt;」，這個想法又一次在無形中加強。&lt;/p&gt;&#xA;&lt;p&gt;過去的我給現在累積不少小眾的興趣，音樂、聲韻、數學，現在在碩士班的研究主題是熱傳遞與流體現象。嗯，這裡沒有反轉、沒有集過去之大成。仲尼也說過：「吾十有五而志於學。三十而立，……。」現在我還未滿 30 ，正常發揮，沒問題的。&lt;/p&gt;&#xA;&lt;p&gt;在學習的路上遇到不少貴人，WiwiKuan 官大爲老師、李鵑娟老師（線上）、喻超凡老師，在我的核心興趣上有關鍵影響力。&lt;/p&gt;&#xA;&lt;p&gt;師者，傳道、授業、解惑；十年樹人，百年樹木，教育乃百年大業。包含上面的幾位老師，我很幸運，可以說我所有的老師們都是很好的榜樣，也是當時認識教育學程的契機。只能說不愧為百年大業，回頭看當時修教程是見樹不見林，且操之過急了。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>慣研究生</title>
       <link>http://localhost:1313/posts/post260106-%E6%85%A3%E7%A0%94%E7%A9%B6%E7%94%9F/</link>
       <pubDate>Tue, 06 Jan 2026 21:57:49 +0800</pubDate>
       <guid>http://localhost:1313/posts/post260106-%E6%85%A3%E7%A0%94%E7%A9%B6%E7%94%9F/</guid>
-      <description>&lt;p&gt;一個普通的週二晚上，準備跑一個 57 分鐘多的資料生成程式，將來要餵給模型用的。&lt;/p&gt;
-&lt;p&gt;寒冷的晚上，把手放在筆電風扇出口還能順便取取暖，滿方便的。&lt;/p&gt;
-&lt;p&gt;想著這 57 分鐘閒著也是閒著，請 Gemini 評估我的 GPU 狀態
-&lt;img alt=&#34;nvidia-smi&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post260106-%E6%85%A3%E7%A0%94%E7%A9%B6%E7%94%9F/nvidia-smi_run_ldc_jax.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Gemini:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(上略)&lt;/p&gt;
-&lt;p&gt;總結建議：不需要做任何更改，請保持現狀。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;不要增加 Batch Size：改成 128 極高機率會爆顯存。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;不要減少 Batch Size：改成 32 會導致 GPU 使用率下降（可能跌至 60-80%），導致生成總時間變長。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;目前的配置 (BATCH_SIZE=64) 正在 &lt;strong&gt;榨乾&lt;/strong&gt; 您 RTX 4050 的每一滴效能，是效率最高的狀態。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;突然覺得 Gemini 像是我的助理，我像一個反派研究員。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;榨乾&lt;/strong&gt; 我的設備的每一滴效能，顯然不是什麼正派的手法，可以預想到做完這次專案之後，我這任勞任怨的 MSI 筆電將損失個 5 年壽命。最後這個筆電會在一次模擬中不堪重負，當機而亡。&lt;/p&gt;
-&lt;p&gt;而造成這個後果的人，正是我這萬惡的慣研究生，終端機一個指令 &lt;code&gt;python3 ldc_data_jax.py&lt;/code&gt; 敲下 &lt;kbd&gt;Enter&lt;/kbd&gt;&lt;kbd&gt;Enter&lt;/kbd&gt; 鍵，眼睛眨都不眨一下。可以說是冷血無情了。太嚇人了，自己都害怕。&lt;/p&gt;</description>
+      <description>&lt;p&gt;一個普通的週二晚上，準備跑一個 57 分鐘多的資料生成程式，將來要餵給模型用的。&lt;/p&gt;&#xA;&lt;p&gt;寒冷的晚上，把手放在筆電風扇出口還能順便取取暖，滿方便的。&lt;/p&gt;&#xA;&lt;p&gt;想著這 57 分鐘閒著也是閒著，請 Gemini 評估我的 GPU 狀態&#xA;&lt;img alt=&#34;nvidia-smi&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post260106-%E6%85%A3%E7%A0%94%E7%A9%B6%E7%94%9F/nvidia-smi_run_ldc_jax.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Gemini:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;(上略)&lt;/p&gt;&#xA;&lt;p&gt;總結建議：不需要做任何更改，請保持現狀。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;不要增加 Batch Size：改成 128 極高機率會爆顯存。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;不要減少 Batch Size：改成 32 會導致 GPU 使用率下降（可能跌至 60-80%），導致生成總時間變長。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;目前的配置 (BATCH_SIZE=64) 正在 &lt;strong&gt;榨乾&lt;/strong&gt; 您 RTX 4050 的每一滴效能，是效率最高的狀態。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;突然覺得 Gemini 像是我的助理，我像一個反派研究員。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;榨乾&lt;/strong&gt; 我的設備的每一滴效能，顯然不是什麼正派的手法，可以預想到做完這次專案之後，我這任勞任怨的 MSI 筆電將損失個 5 年壽命。最後這個筆電會在一次模擬中不堪重負，當機而亡。&lt;/p&gt;&#xA;&lt;p&gt;而造成這個後果的人，正是我這萬惡的慣研究生，終端機一個指令 &lt;code&gt;python3 ldc_data_jax.py&lt;/code&gt; 敲下 &lt;kbd&gt;Enter&lt;/kbd&gt; 鍵，眼睛眨都不眨一下。可以說是冷血無情了。太嚇人了，自己都害怕。&lt;/p&gt;</description>
     </item>
     <item>
       <title>推坑 《一弦定音！》</title>
       <link>http://localhost:1313/posts/post260104-%E6%8E%A8%E5%9D%91/</link>
       <pubDate>Sun, 04 Jan 2026 13:59:57 +0800</pubDate>
       <guid>http://localhost:1313/posts/post260104-%E6%8E%A8%E5%9D%91/</guid>
-      <description>&lt;p&gt;這是我的 &lt;a href=&#34;https://blogblog.club/party&#34;&gt;2026 年 1 月份 BlogBlog 同樂會投稿&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;歷經一番搜索與問答，本站在今天（ 2026 年 1 月 4 日）成立啦！&lt;/p&gt;
-&lt;p&gt;從國二（2017 下半年）開始關注 YT 上的 NiceChord 好和弦，今天從 wiwi 的 &lt;a href=&#34;https://wiwi.blog/blogroll&#34;&gt;部落卷&lt;/a&gt; 看著許多部落客用心經營自己的一方田地，身為 8 年次老(?)粉絲，我來給同樂會捧場啦！&lt;/p&gt;
-&lt;h2 id=&#34;看漫畫學古箏&#34;&gt;看漫畫學古箏&lt;/h2&gt;
-&lt;p&gt;算是承上一篇 &lt;a href=&#34;https://www.rhymelifer.com/posts/post260101-%E8%A5%BF%E6%B4%8B%E6%96%B0%E5%B9%B4/#%E6%BC%AB%E7%95%AB%E7%B4%80%E5%B9%B4%E6%B3%95&#34;&gt;《海賊王》&lt;/a&gt; 主題，這次要講的是國二開始追的漫畫《一弦定音！》。&lt;/p&gt;
-&lt;p&gt;關於漫畫，在國小（2010～2011）有一段令我印象深刻的台灣漫畫家來學校演講，當時他的作品有在《國語日報》連載（只記得有個反派小丑角色）。大家好奇漫畫的結局，他是這麼說的：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;漫畫的大結局其實作者早在漫畫一開始、第一話就講了。像是魯夫喊的那句「我要成為海賊王！」，就是《海賊王》的結局。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;這個說法在諸多漫畫或（網路）小說中都適用，當然也包含今天的「我推」－－《一弦定音！》－－。&lt;/p&gt;
-&lt;p&gt;故事情節一言以蔽之，逆境中茁壯；講一群受過傷的高中生在箏曲社互相砥礪、共同成長，順便談個小戀愛的故事。治癒的故事確實精準戳中我的淚點，推薦給大家。&lt;/p&gt;
-&lt;p&gt;隨著故事情節推進，從目不識譜到進軍全國賽，作者也在漫畫中「音普」關於日本箏的基本知識，讀者跟著社團課程，學會戴義甲、彈出第一顆音、看譜字、調音、分組練習、合奏練習，彷彿置身練習室中，從迷茫的跟上腳步，在一次次社團練習與同儕互動中找到自己的歸屬感，在舞台上感受合奏時動人心弦的箏曲聲。&lt;/p&gt;
-&lt;p&gt;不是刻意使用考場作文的辭藻，本人我在竹南國小國樂團也是非常相似感受，指定曲《臺灣追想曲、自選曲《將軍令》，當時被分去拉中胡。自己練習時、小組練習時，和合奏時候中胡的聲音真的不一樣。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;《一弦定音！》第 31 、第 32 冊&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post260104-%E6%8E%A8%E5%9D%91/%E4%B8%80%E5%BC%A6%E5%AE%9A%E9%9F%B331+32.jpg&#34;&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;h2 id=&#34;傳統音樂打廣告&#34;&gt;傳統音樂打廣告&lt;/h2&gt;
-&lt;p&gt;除了主角團，在各大比賽中的其他高中箏曲社也都各有特色，其中選曲很有意思。&lt;/p&gt;
-&lt;p&gt;《一弦定音！》作者 アミュー 在漫畫中提到，姊姊和母親都是職業箏手，主角所在時瀨高中的幾所有比賽曲目，沒錯都是阿姊和阿母親手量身打造。&lt;/p&gt;
-&lt;p&gt;在 YouTube 上也都有這些曲子的影片或錄音，搜尋：一弦定音！、この音とまれ！、橋本みぎわ（作者令姊）等關鍵字都能找到。&lt;/p&gt;
-&lt;p&gt;那其他學校的曲目呢？當然是直接借用現有的曲子啦！不僅能宣揚傳統音樂，實際的曲目更能讓配角們有具體對應的形象，豈不美哉？&lt;/p&gt;
-&lt;h2 id=&#34;若干軼事&#34;&gt;若干軼事&lt;/h2&gt;
-&lt;p&gt;雖說是我推，身為粉絲《一弦定音！》也有不少值得吐槽的小地方，當然不能放過它們了。無傷大雅，小吐槽。&lt;/p&gt;
-&lt;p&gt;其中一個，主角群的命運裡，或家庭或人際相處，都不怎麼順遂；交通事故與交友事故正是他們在時瀨高中箏曲社的原因。雖然都是老套路了，但老套路還真是好用，該感人肺腑的那些情節，眼淚我也沒少掉的。&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;購於Animate，2025年6月26日。&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</description>
+      <description>&lt;p&gt;這是我的 &lt;a href=&#34;https://blogblog.club/party&#34;&gt;2026 年 1 月份 BlogBlog 同樂會投稿&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;歷經一番搜索與問答，本站在今天（ 2026 年 1 月 4 日）成立啦！&lt;/p&gt;&#xA;&lt;p&gt;從國二（2017 下半年）開始關注 YT 上的 NiceChord 好和弦，今天從 wiwi 的 &lt;a href=&#34;https://wiwi.blog/blogroll&#34;&gt;部落卷&lt;/a&gt; 看著許多部落客用心經營自己的一方田地，身為 8 年次老(?)粉絲，我來給同樂會捧場啦！&lt;/p&gt;&#xA;&lt;h2 id=&#34;看漫畫學古箏&#34;&gt;看漫畫學古箏&lt;/h2&gt;&#xA;&lt;p&gt;算是承上一篇 &lt;a href=&#34;https://www.rhymelifer.com/posts/post260101-%E8%A5%BF%E6%B4%8B%E6%96%B0%E5%B9%B4/#%E6%BC%AB%E7%95%AB%E7%B4%80%E5%B9%B4%E6%B3%95&#34;&gt;《海賊王》&lt;/a&gt; 主題，這次要講的是國二開始追的漫畫《一弦定音！》。&lt;/p&gt;&#xA;&lt;p&gt;關於漫畫，在國小（2010～2011）有一段令我印象深刻的台灣漫畫家來學校演講，當時他的作品有在《國語日報》連載（只記得有個反派小丑角色）。大家好奇漫畫的結局，他是這麼說的：&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;漫畫的大結局其實作者早在漫畫一開始、第一話就講了。像是魯夫喊的那句「我要成為海賊王！」，就是《海賊王》的結局。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;這個說法在諸多漫畫或（網路）小說中都適用，當然也包含今天的「我推」－－《一弦定音！》－－。&lt;/p&gt;&#xA;&lt;p&gt;故事情節一言以蔽之，逆境中茁壯；講一群受過傷的高中生在箏曲社互相砥礪、共同成長，順便談個小戀愛的故事。治癒的故事確實精準戳中我的淚點，推薦給大家。&lt;/p&gt;&#xA;&lt;p&gt;隨著故事情節推進，從目不識譜到進軍全國賽，作者也在漫畫中「音普」關於日本箏的基本知識，讀者跟著社團課程，學會戴義甲、彈出第一顆音、看譜字、調音、分組練習、合奏練習，彷彿置身練習室中，從迷茫的跟上腳步，在一次次社團練習與同儕互動中找到自己的歸屬感，在舞台上感受合奏時動人心弦的箏曲聲。&lt;/p&gt;&#xA;&lt;p&gt;不是刻意使用考場作文的辭藻，本人我在竹南國小國樂團也是非常相似感受，指定曲《臺灣追想曲、自選曲《將軍令》，當時被分去拉中胡。自己練習時、小組練習時，和合奏時候中胡的聲音真的不一樣。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;《一弦定音！》第 31 、第 32 冊&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/post260104-%E6%8E%A8%E5%9D%91/%E4%B8%80%E5%BC%A6%E5%AE%9A%E9%9F%B331+32.jpg&#34;&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;傳統音樂打廣告&#34;&gt;傳統音樂打廣告&lt;/h2&gt;&#xA;&lt;p&gt;除了主角團，在各大比賽中的其他高中箏曲社也都各有特色，其中選曲很有意思。&lt;/p&gt;&#xA;&lt;p&gt;《一弦定音！》作者 アミュー 在漫畫中提到，姊姊和母親都是職業箏手，主角所在時瀨高中的幾所有比賽曲目，沒錯都是阿姊和阿母親手量身打造。&lt;/p&gt;&#xA;&lt;p&gt;在 YouTube 上也都有這些曲子的影片或錄音，搜尋：一弦定音！、この音とまれ！、橋本みぎわ（作者令姊）等關鍵字都能找到。&lt;/p&gt;&#xA;&lt;p&gt;那其他學校的曲目呢？當然是直接借用現有的曲子啦！不僅能宣揚傳統音樂，實際的曲目更能讓配角們有具體對應的形象，豈不美哉？&lt;/p&gt;&#xA;&lt;h2 id=&#34;若干軼事&#34;&gt;若干軼事&lt;/h2&gt;&#xA;&lt;p&gt;雖說是我推，身為粉絲《一弦定音！》也有不少值得吐槽的小地方，當然不能放過它們了。無傷大雅，小吐槽。&lt;/p&gt;&#xA;&lt;p&gt;其中一個，主角群的命運裡，或家庭或人際相處，都不怎麼順遂；交通事故與交友事故正是他們在時瀨高中箏曲社的原因。雖然都是老套路了，但老套路還真是好用，該感人肺腑的那些情節，眼淚我也沒少掉的。&lt;/p&gt;&#xA;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li id=&#34;fn:1&#34;&gt;&#xA;&lt;p&gt;購於Animate，2025年6月26日。&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>西洋新年快樂</title>
       <link>http://localhost:1313/posts/post260101-%E8%A5%BF%E6%B4%8B%E6%96%B0%E5%B9%B4/</link>
       <pubDate>Thu, 01 Jan 2026 02:27:22 +0800</pubDate>
       <guid>http://localhost:1313/posts/post260101-%E8%A5%BF%E6%B4%8B%E6%96%B0%E5%B9%B4/</guid>
-      <description>&lt;h2 id=&#34;公曆佛曆各種曆&#34;&gt;公曆佛曆各種曆&lt;/h2&gt;
-&lt;p&gt;大四有一陣子迷上了同餘數學，一迷就是兩個禮拜。算是階段性成癮吧。&lt;/p&gt;
-&lt;p&gt;同餘，顧名思義，研究整數除法「相同餘數」時誕生的。&lt;/p&gt;
-&lt;p&gt;一個貼近生活的例子是求「天干地支對應的西元年年分」。由十干十二支從 甲子、乙丑、丙寅、……、壬戌、癸亥 ，再回到甲子如此搭配形成 60 種組合。&lt;/p&gt;
-&lt;p&gt;使用干支計年，照這個規律可以得到&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;每十年同干&lt;/li&gt;
-&lt;li&gt;每十二年同支，且&lt;/li&gt;
-&lt;li&gt;每六十年同干支。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;這種幾個一數、幾個一數的性質，正是 &lt;strong&gt;同餘&lt;/strong&gt; 的主要研究對象。&lt;/p&gt;
-&lt;p&gt;那麼問題就來了，&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;問：&lt;/strong&gt; 甲子年對應西元哪一年？&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;要訂哪一個日子作為曆法第一天？&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;放心，接下來的段落不是推導 2026 是丙午年&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;，是干支的第 43 年。&lt;/p&gt;
-&lt;p&gt;而是就這仔細一想，西元元年以耶穌為準、佛曆那自然以喬達摩‧悉達多為準、伊斯蘭曆以穆罕默德為準、干支紀年據記載始於三皇五帝&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
-&lt;p&gt;看著以上這些例子，似乎時間的規則是某個傳說:相傳某人於某時某地成某事，此番成就影響某群體如此這般深遠，便以當時作為某曆之始、延用至今。&lt;/p&gt;
-&lt;p&gt;這也太神奇啦。原本我想了解的姑且算是個數學問題吧，隨著查找資料、追問答案，漸漸地就變成一個關於歷史、宗教、人類、社會的綜合問題。問題從本人出發，回到前人身上。&lt;/p&gt;
-&lt;p&gt;提問，好像是個人到人的腦補過程？&lt;/p&gt;
-&lt;h2 id=&#34;漫畫紀年法&#34;&gt;漫畫紀年法&lt;/h2&gt;
-&lt;p&gt;《ONE PIECE》，海賊王發行於 1997 年 7 月 22 日，是人生第一部連載漫畫，在 2010 年偉大的航路深深震撼我的想像世界。&lt;/p&gt;
-&lt;p&gt;擇年不如撞年，就訂 2010 為我的漫畫啟蒙年吧。&lt;/p&gt;
-&lt;p&gt;【解】&lt;/p&gt;
-&lt;p&gt;已知:西元 4 年為甲子年 (即 $西元年-3$ 與 干支年同餘，除數 $60$)，且 1980 = 60*33 ≡ 0 (mod 60)&lt;/p&gt;
-&lt;p&gt;2010-3 = 2007, 2007 ≡ 2007 - 1980 ≡ 27 (mod 60) 第 27 干支年。&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;公曆佛曆各種曆&#34;&gt;公曆佛曆各種曆&lt;/h2&gt;&#xA;&lt;p&gt;大四有一陣子迷上了同餘數學，一迷就是兩個禮拜。算是階段性成癮吧。&lt;/p&gt;&#xA;&lt;p&gt;同餘，顧名思義，研究整數除法「相同餘數」時誕生的。&lt;/p&gt;&#xA;&lt;p&gt;一個貼近生活的例子是求「天干地支對應的西元年年分」。由十干十二支從 甲子、乙丑、丙寅、……、壬戌、癸亥 ，再回到甲子如此搭配形成 60 種組合。&lt;/p&gt;&#xA;&lt;p&gt;使用干支計年，照這個規律可以得到&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;每十年同干&lt;/li&gt;&#xA;&lt;li&gt;每十二年同支，且&lt;/li&gt;&#xA;&lt;li&gt;每六十年同干支。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;這種幾個一數、幾個一數的性質，正是 &lt;strong&gt;同餘&lt;/strong&gt; 的主要研究對象。&lt;/p&gt;&#xA;&lt;p&gt;那麼問題就來了，&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;問：&lt;/strong&gt; 甲子年對應西元哪一年？&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;要訂哪一個日子作為曆法第一天？&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;放心，接下來的段落不是推導 2026 是丙午年&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;，是干支的第 43 年。&lt;/p&gt;&#xA;&lt;p&gt;而是就這仔細一想，西元元年以耶穌為準、佛曆那自然以喬達摩‧悉達多為準、伊斯蘭曆以穆罕默德為準、干支紀年據記載始於三皇五帝&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;&#xA;&lt;p&gt;看著以上這些例子，似乎時間的規則是某個傳說:相傳某人於某時某地成某事，此番成就影響某群體如此這般深遠，便以當時作為某曆之始、延用至今。&lt;/p&gt;&#xA;&lt;p&gt;這也太神奇啦。原本我想了解的姑且算是個數學問題吧，隨著查找資料、追問答案，漸漸地就變成一個關於歷史、宗教、人類、社會的綜合問題。問題從本人出發，回到前人身上。&lt;/p&gt;&#xA;&lt;p&gt;提問，好像是個人到人的腦補過程？&lt;/p&gt;&#xA;&lt;h2 id=&#34;漫畫紀年法&#34;&gt;漫畫紀年法&lt;/h2&gt;&#xA;&lt;p&gt;《ONE PIECE》，海賊王發行於 1997 年 7 月 22 日，是人生第一部連載漫畫，在 2010 年偉大的航路深深震撼我的想像世界。&lt;/p&gt;&#xA;&lt;p&gt;擇年不如撞年，就訂 2010 為我的漫畫啟蒙年吧。&lt;/p&gt;&#xA;&lt;p&gt;【解】&lt;/p&gt;&#xA;&lt;p&gt;已知:西元 4 年為甲子年 (即 $西元年-3$ 與 干支年同餘，除數 $60$)，且 1980 = 60*33 ≡ 0 (mod 60)&lt;/p&gt;&#xA;&lt;p&gt;2010-3 = 2007, 2007 ≡ 2007 - 1980 ≡ 27 (mod 60) 第 27 干支年。&lt;/p&gt;</description>
     </item>
     <item>
       <title>李鵑娟教授聲韻學</title>
       <link>http://localhost:1313/posts/post251226-%E6%9D%8E%E9%B5%91%E5%A8%9F%E6%95%99%E6%8E%88%E8%81%B2%E9%9F%BB%E5%AD%B8/</link>
       <pubDate>Fri, 26 Dec 2025 12:45:33 +0800</pubDate>
       <guid>http://localhost:1313/posts/post251226-%E6%9D%8E%E9%B5%91%E5%A8%9F%E6%95%99%E6%8E%88%E8%81%B2%E9%9F%BB%E5%AD%B8/</guid>
-      <description>&lt;h2 id=&#34;ㄅㄆㄇㄈ的前世今生&#34;&gt;ㄅㄆㄇㄈ的前世今生&lt;/h2&gt;
-&lt;p&gt;高二國文課堂上，阿甘（國文老師）講到樂府詩時，開始幫我們回憶韻文相關的國學常識，就這麼峰迴路轉地講到了聲韻學。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;小學，國學的基礎學科，文字、聲韻、訓詁。用現在的話說，就是國文選擇題前面 2, 3 題考的形、音、義。&lt;/p&gt;
-&lt;p&gt;聲韻學，是中文系大三的一門必修，難度相當於微積分。&lt;/p&gt;
-&lt;p&gt;這堂課的考試，要求學生們把字典的目錄背起來……&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;那是我對這個學科形成認知的第一印象，在 2019 年、高二下學期。
-會說「形成認知」，是因為早在國小學的注音，就是聲韻跟我們的初次邂逅。
-熟悉的ㄅㄆㄇㄈ，&lt;a href=&#34;https://gnn.gamer.com.tw/detail.php?sn=214661&#34;&gt;精靈的語言&lt;/a&gt;（？&lt;/p&gt;
-&lt;p&gt;6年前阿甘種下的這顆聲韻學種子，從高二下一路憋著，憋到了大一下的後半學期，開始了尋找ㄅㄆㄇㄈ前世今生的冒險&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
-&lt;p&gt;時隔兩年回顧我的聲韻啟蒙課，李鵑娟教授在台南極樂寺開講的&lt;a href=&#34;https://youtube.com/playlist?list=PLu1TU1gf_wJB0dR65JxOh3FR0ua5HF-cC&amp;amp;si=Kab8HuPtqB4BBfid&#34;&gt;聲韻學&lt;/a&gt;。&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;當時其實研究的是詩經擬音，想看懂IPA、學上古音構擬，不過這個好像讓話題更不好聊了。所以這邊寫「ㄅㄆㄇㄈ前世今生」。&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</description>
+      <description>&lt;h2 id=&#34;ㄅㄆㄇㄈ的前世今生&#34;&gt;ㄅㄆㄇㄈ的前世今生&lt;/h2&gt;&#xA;&lt;p&gt;高二國文課堂上，阿甘（國文老師）講到樂府詩時，開始幫我們回憶韻文相關的國學常識，就這麼峰迴路轉地講到了聲韻學。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;小學，國學的基礎學科，文字、聲韻、訓詁。用現在的話說，就是國文選擇題前面 2, 3 題考的形、音、義。&lt;/p&gt;&#xA;&lt;p&gt;聲韻學，是中文系大三的一門必修，難度相當於微積分。&lt;/p&gt;&#xA;&lt;p&gt;這堂課的考試，要求學生們把字典的目錄背起來……&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;那是我對這個學科形成認知的第一印象，在 2019 年、高二下學期。&#xA;會說「形成認知」，是因為早在國小學的注音，就是聲韻跟我們的初次邂逅。&#xA;熟悉的ㄅㄆㄇㄈ，&lt;a href=&#34;https://gnn.gamer.com.tw/detail.php?sn=214661&#34;&gt;精靈的語言&lt;/a&gt;（？&lt;/p&gt;&#xA;&lt;p&gt;6年前阿甘種下的這顆聲韻學種子，從高二下一路憋著，憋到了大一下的後半學期，開始了尋找ㄅㄆㄇㄈ前世今生的冒險&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;&#xA;&lt;p&gt;時隔兩年回顧我的聲韻啟蒙課，李鵑娟教授在台南極樂寺開講的&lt;a href=&#34;https://youtube.com/playlist?list=PLu1TU1gf_wJB0dR65JxOh3FR0ua5HF-cC&amp;amp;si=Kab8HuPtqB4BBfid&#34;&gt;聲韻學&lt;/a&gt;。&lt;/p&gt;&#xA;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li id=&#34;fn:1&#34;&gt;&#xA;&lt;p&gt;當時其實研究的是詩經擬音，想看懂IPA、學上古音構擬，不過這個好像讓話題更不好聊了。所以這邊寫「ㄅㄆㄇㄈ前世今生」。&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>PINN回避反射</title>
       <link>http://localhost:1313/posts/post251221-pinn%E5%9B%9E%E9%81%BF%E5%8F%8D%E5%B0%84/</link>
       <pubDate>Sun, 21 Dec 2025 11:30:16 +0800</pubDate>
       <guid>http://localhost:1313/posts/post251221-pinn%E5%9B%9E%E9%81%BF%E5%8F%8D%E5%B0%84/</guid>
-      <description>&lt;p&gt;做好工作真的不簡單，從分配到 PINN 組別以後我深有所感，其中的碩一生大概是選有修人工智慧那門課。（PINN = Physics Informed Neural Networks）&lt;/p&gt;
-&lt;p&gt;一轉眼又過了一個星期，明天是令人心驚膽顫的小組會議（group meeting）。目前進度零、彷彿希望也歸零。&lt;/p&gt;
-&lt;p&gt;確實如學長所言，我該投入更多時間、讓事情持續進展云云。現在時間是充裕了，時間要投在哪裡仍舊沒有頭緒。也不能說完全沒有吧，算是走投無路啦。&lt;/p&gt;
-&lt;p&gt;一開始想得相當正面，像這週剛結束諮商那樣，
-6&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;「對於接下來的研究時間，你會怎麼安排？」&lt;/p&gt;
-&lt;p&gt;「與生活結合吧。根據過去經驗，能學的好的技能、知識無一不是融入日常生活中，或許是最適合的方法。……找到 &lt;em&gt;意義感&lt;/em&gt; ，附諸行動與時間可能是最有效的。」&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;這幾天晚上有空的時間就在找啊找，Navier-Stokes 方程式、二維的解析解、理論力學、《自然哲學的數學原理》，YT 上各種混亂中尋找方向，後來的結論是愈找愈亂，可喜可賀。&lt;/p&gt;
-&lt;p&gt;邊寫這段的時候還想：會不會無意義也是種意義呢？（看得出來有點絕望的處境&lt;/p&gt;
-&lt;p&gt;昨天蝦皮上買的次中音直笛也到貨了，Aulos 一支 2050，四天到貨，大概也是 YT 上一頓觀看影片後的購物行為。我還算是了解我自己的。
-&lt;figure class=&#34;center&#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;post251221_%e7%9b%b4%e7%ac%9b2.png&#34;
-         alt=&#34;Aulos tenor recorder&#34; width=&#34;75%&#34;/&gt; 
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;非常鬱悶，嵌入圖片不讓我顯示&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;，炫耀都不讓炫耀，這麼霸道？&lt;/p&gt;
-&lt;p&gt;心情更不好了，想放棄治療。&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;260104更新，資料夾從「 index.md」（前面多一個空格）改成「index.md」後，圖片成功顯示！ &lt;!-- raw HTML omitted --&gt; 心情好啦！&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</description>
+      <description>&lt;p&gt;做好工作真的不簡單，從分配到 PINN 組別以後我深有所感，其中的碩一生大概是選有修人工智慧那門課。（PINN = Physics Informed Neural Networks）&lt;/p&gt;&#xA;&lt;p&gt;一轉眼又過了一個星期，明天是令人心驚膽顫的小組會議（group meeting）。目前進度零、彷彿希望也歸零。&lt;/p&gt;&#xA;&lt;p&gt;確實如學長所言，我該投入更多時間、讓事情持續進展云云。現在時間是充裕了，時間要投在哪裡仍舊沒有頭緒。也不能說完全沒有吧，算是走投無路啦。&lt;/p&gt;&#xA;&lt;p&gt;一開始想得相當正面，像這週剛結束諮商那樣，&#xA;6&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;「對於接下來的研究時間，你會怎麼安排？」&lt;/p&gt;&#xA;&lt;p&gt;「與生活結合吧。根據過去經驗，能學的好的技能、知識無一不是融入日常生活中，或許是最適合的方法。……找到 &lt;em&gt;意義感&lt;/em&gt; ，附諸行動與時間可能是最有效的。」&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;這幾天晚上有空的時間就在找啊找，Navier-Stokes 方程式、二維的解析解、理論力學、《自然哲學的數學原理》，YT 上各種混亂中尋找方向，後來的結論是愈找愈亂，可喜可賀。&lt;/p&gt;&#xA;&lt;p&gt;邊寫這段的時候還想：會不會無意義也是種意義呢？（看得出來有點絕望的處境&lt;/p&gt;&#xA;&lt;p&gt;昨天蝦皮上買的次中音直笛也到貨了，Aulos 一支 2050，四天到貨，大概也是 YT 上一頓觀看影片後的購物行為。我還算是了解我自己的。&#xA;&lt;figure class=&#34;center&#34;&gt;&#xA;    &lt;img loading=&#34;lazy&#34; src=&#34;post251221_%e7%9b%b4%e7%ac%9b2.png&#34;&#xA;         alt=&#34;Aulos tenor recorder&#34; width=&#34;75%&#34;/&gt; &#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;非常鬱悶，嵌入圖片不讓我顯示&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;，炫耀都不讓炫耀，這麼霸道？&lt;/p&gt;&#xA;&lt;p&gt;心情更不好了，想放棄治療。&lt;/p&gt;&#xA;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li id=&#34;fn:1&#34;&gt;&#xA;&lt;p&gt;260104更新，資料夾從「 index.md」（前面多一個空格）改成「index.md」後，圖片成功顯示！ &lt;br&gt; 心情好啦！&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>錯字</title>
       <link>http://localhost:1313/posts/post251218-%E9%8C%AF%E5%AD%97/</link>
       <pubDate>Thu, 18 Dec 2025 11:53:20 +0800</pubDate>
       <guid>http://localhost:1313/posts/post251218-%E9%8C%AF%E5%AD%97/</guid>
-      <description>&lt;p&gt;在沉重的實驗室生活裡為各位同伴們增添生活趣味。&lt;/p&gt;
-&lt;p&gt;以下附上 Line 群組原文&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;學長：（報告內文）……目前仍未達到收斂狀態，故增加訓練布樹繼續執行訓練。
-&lt;figure class=&#34;center&#34;&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;post251218_%e5%b8%83%e6%a8%b9.jpg&#34;
-         alt=&#34;增加訓練「布樹」&#34; width=&#34;75%&#34;/&gt; 
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;教授：＠維維(匿名) and All, 基本該作好應作好的事情，請持續提醒自己要作好，內化變成習慣。很多時候可能只多花不到幾分鐘，那是態度的問題，不是能力或時間不夠的問題。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;em&gt;作&lt;/em&gt; 研究的好夥伴、伴你 &lt;em&gt;作&lt;/em&gt; 好每份重要文書，誠摯推薦 &lt;strong&gt;倉頡輸入法&lt;/strong&gt; 。&lt;/p&gt;</description>
+      <description>&lt;p&gt;在沉重的實驗室生活裡為各位同伴們增添生活趣味。&lt;/p&gt;&#xA;&lt;p&gt;以下附上 Line 群組原文&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;學長：（報告內文）……目前仍未達到收斂狀態，故增加訓練布樹繼續執行訓練。&#xA;&lt;figure class=&#34;center&#34;&gt;&#xA;    &lt;img loading=&#34;lazy&#34; src=&#34;post251218_%e5%b8%83%e6%a8%b9.jpg&#34;&#xA;         alt=&#34;增加訓練「布樹」&#34; width=&#34;75%&#34;/&gt; &#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;教授：＠維維(匿名) and All, 基本該作好應作好的事情，請持續提醒自己要作好，內化變成習慣。很多時候可能只多花不到幾分鐘，那是態度的問題，不是能力或時間不夠的問題。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;作&lt;/em&gt; 研究的好夥伴、伴你 &lt;em&gt;作&lt;/em&gt; 好每份重要文書，誠摯推薦 &lt;strong&gt;倉頡輸入法&lt;/strong&gt; 。&lt;/p&gt;</description>
     </item>
     <item>
       <title>BlogBlog 同樂會撰文靈感</title>
       <link>http://localhost:1313/posts/post251217-blogblogclub/</link>
       <pubDate>Wed, 17 Dec 2025 22:17:52 +0800</pubDate>
       <guid>http://localhost:1313/posts/post251217-blogblogclub/</guid>
-      <description>&lt;p&gt;創作動機來自 wiwi 官大為發起的 &lt;a href=&#34;https://blogblog.club/party&#34;&gt;BlogBlog 同樂會&lt;/a&gt;，可以想成是「個人頁版的作品展」，不收門票、自由參觀。&lt;/p&gt;
-&lt;p&gt;本屆是第一屆，主題「推坑」，2026 年 1 月 31 日截止投稿。&lt;/p&gt;
-&lt;p&gt;下面記錄想推坑的內容：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;喜劇類：喜劇之王單口季、脫口秀大會、相聲瓦舍&lt;/li&gt;
-&lt;li&gt;音樂類：KPOP - SEVENTEEN&lt;/li&gt;
-&lt;li&gt;應用類：倉頡輸入法&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;p&gt;創作動機來自 wiwi 官大為發起的 &lt;a href=&#34;https://blogblog.club/party&#34;&gt;BlogBlog 同樂會&lt;/a&gt;，可以想成是「個人頁版的作品展」，不收門票、自由參觀。&lt;/p&gt;&#xA;&lt;p&gt;本屆是第一屆，主題「推坑」，2026 年 1 月 31 日截止投稿。&lt;/p&gt;&#xA;&lt;p&gt;下面記錄想推坑的內容：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;喜劇類：喜劇之王單口季、脫口秀大會、相聲瓦舍&lt;/li&gt;&#xA;&lt;li&gt;音樂類：KPOP - SEVENTEEN&lt;/li&gt;&#xA;&lt;li&gt;應用類：倉頡輸入法&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>第一篇貼文 251217</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 17 Dec 2025 17:16:22 +0800</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;blogblog-同樂會&#34;&gt;BlogBlog 同樂會&lt;/h2&gt;
-&lt;p&gt;創作動機來自 wiwi 官大為發起的 &lt;a href=&#34;https://blogblog.club/party&#34;&gt;BlogBlog 同樂會&lt;/a&gt;，可以想成是「個人頁版的作品展」，不收門票、自由參觀。&lt;/p&gt;
-&lt;p&gt;本屆是第一屆，主題「推坑」，2026 年 1 月 31 日截止投稿。&lt;/p&gt;
-&lt;p&gt;下面記錄想推坑的內容：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;喜劇類：喜劇之王單口季、脫口秀大會、相聲瓦舍&lt;/li&gt;
-&lt;li&gt;音樂類：KPOP - SEVENTEEN&lt;/li&gt;
-&lt;li&gt;應用類：倉頡輸入法&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;h2 id=&#34;blogblog-同樂會&#34;&gt;BlogBlog 同樂會&lt;/h2&gt;&#xA;&lt;p&gt;創作動機來自 wiwi 官大為發起的 &lt;a href=&#34;https://blogblog.club/party&#34;&gt;BlogBlog 同樂會&lt;/a&gt;，可以想成是「個人頁版的作品展」，不收門票、自由參觀。&lt;/p&gt;&#xA;&lt;p&gt;本屆是第一屆，主題「推坑」，2026 年 1 月 31 日截止投稿。&lt;/p&gt;&#xA;&lt;p&gt;下面記錄想推坑的內容：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;喜劇類：喜劇之王單口季、脫口秀大會、相聲瓦舍&lt;/li&gt;&#xA;&lt;li&gt;音樂類：KPOP - SEVENTEEN&lt;/li&gt;&#xA;&lt;li&gt;應用類：倉頡輸入法&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>MathJax 測試</title>
+      <link>http://localhost:1313/posts/test260129/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/test260129/</guid>
+      <description>&lt;p&gt;Conservation of Momentum:&#xA;&lt;/p&gt;&#xA;$$&#xA;\rho {D \mathbf{u} \over Dt} = \mathbf{f} - \nabla p + \mu\nabla^2\mathbf{v}&#xA;$$</description>
     </item>
   </channel>
 </rss>
